@@ -1,5 +1,3 @@
-README.md
-
 # Showcase CSS Power
 
 This project demonstrates the power of CSS by comparing two sections of a website: one with CSS applied and one without. The goal is to highlight the significant impact of CSS on web design and user experience.
