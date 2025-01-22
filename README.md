@@ -12,7 +12,7 @@ This project demonstrates the power of CSS by comparing two sections of a websit
 ## How to Use
 
 1. Clone or download this repository.
-2. Open insex.html in a web browser to view the website.
+2. Open index.html in a web browser to view the website.
 3. Compare the "With CSS" and "Without CSS" sections to see the difference.
 
 ## Features
