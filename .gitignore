@@ -20,3 +20,10 @@ build/
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+# Ignore temporary HTML and CSS files
+*.html
+*.css
+
+# Ignore backup files
+*~
